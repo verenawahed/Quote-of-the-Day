@@ -1,0 +1,22 @@
+h1{
+    font-size: 80px;
+    font-family: Impact, sans-serif;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(244, 154, 226);
+    color: white;
+    border: 1px solid white;
+}
+
+button:hover{
+    background-color: rgb(208, 0, 255);
+}
+
+p{
+    font-size: 25px;
+}
+.Quote{
+    font-size: 35px;
+}
